@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeroPlus", "AeroPlus\AeroPlus.csproj", "{A8F81071-FE55-4BBB-86FC-E260601B3646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{075412D5-FA81-4228-AD92-9E0DF1BADE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F81071-FE55-4BBB-86FC-E260601B3646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F81071-FE55-4BBB-86FC-E260601B3646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F81071-FE55-4BBB-86FC-E260601B3646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F81071-FE55-4BBB-86FC-E260601B3646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075412D5-FA81-4228-AD92-9E0DF1BADE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075412D5-FA81-4228-AD92-9E0DF1BADE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075412D5-FA81-4228-AD92-9E0DF1BADE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075412D5-FA81-4228-AD92-9E0DF1BADE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EAC131-DD01-4921-917B-D074885DFE46}
+	EndGlobalSection
+EndGlobal
