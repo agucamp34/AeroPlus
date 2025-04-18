@@ -9,3 +9,4 @@ C:\Users\alagu\source\repos\AeroPlus\Dominio\obj\Debug\net8.0\Dominio.dll
 C:\Users\alagu\source\repos\AeroPlus\Dominio\obj\Debug\net8.0\refint\Dominio.dll
 C:\Users\alagu\source\repos\AeroPlus\Dominio\obj\Debug\net8.0\Dominio.pdb
 C:\Users\alagu\source\repos\AeroPlus\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\alagu\source\repos\AeroPlus\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json

@@ -16,3 +16,4 @@ C:\Users\alagu\source\repos\AeroPlus\AeroPlus\obj\Debug\net8.0\AeroPlus.csproj.A
 C:\Users\alagu\source\repos\AeroPlus\AeroPlus\bin\Debug\net8.0\Dominio.dll
 C:\Users\alagu\source\repos\AeroPlus\AeroPlus\bin\Debug\net8.0\Dominio.pdb
 C:\Users\alagu\source\repos\AeroPlus\AeroPlus\obj\Debug\net8.0\AeroPlus.csproj.Up2Date
+C:\Users\alagu\source\repos\AeroPlus\AeroPlus\obj\Debug\net8.0\AeroPlus.sourcelink.json
