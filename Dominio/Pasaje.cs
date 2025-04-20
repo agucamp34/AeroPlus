@@ -22,7 +22,7 @@ namespace Dominio
             IdPasaje = ++UltimoIdPasaje;
             Fecha = fecha;
             TipoEquipaje = tipoEquipaje;
-            Precio = precio;
+            Precio = CalcularPrecioPasaje();
             Vuelo = vuelo;
             Pasajero = pasajero;
         }
@@ -32,7 +32,7 @@ namespace Dominio
 
         public override string ToString()
         {
-            return $"Pasaje ID: {IdPasaje}, Pasajero: {Pasajero.Nombre}, Vuelo: {Vuelo.NumeroVuelo}, Precio: {Precio:C}, Equipaje: {TipoEquipaje}";
+            return $"Pasaje ID: {IdPasaje}, Pasajero: {Pasajero.Nombre}, Vuelo: {Vuelo.NumeroVuelo}, Precio: {Precio}, Equipaje: {TipoEquipaje}";
         }
         
         

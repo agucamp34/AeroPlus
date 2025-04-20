@@ -18,7 +18,7 @@ namespace Dominio
 
         public override string ToString()
         {
-            return base.ToString() + $" Regalo Elegible: {(RegaloElegible ? "Si" : "No")}";
+            return base.ToString() + $", Regalo Elegible: {(RegaloElegible ? "Si" : "No")}";
         }
 
         public override decimal CalcularRecargoPorEquipaje(Equipaje equipaje)

@@ -9,7 +9,7 @@ using Dominio;
         {
           Sistema sistema = new Sistema();
 
-        int opcion;
+        int opcion= -1; // La variable opcion se inicializa en -1 para garantizar que el valor inicial sea un número que no coincida con ninguna de las opciones válidas del menú
         do
         {
             Console.Clear();
@@ -34,7 +34,7 @@ using Dominio;
                     AltaClienteOcasional();
                     break;
                     case 4:
-                    ListarPasajesEntreFechas();
+                    //ListarPasajesEntreFechas();
                     break;
                 case 0:
                     Console.WriteLine("Saliendo del programa...");
@@ -54,17 +54,18 @@ using Dominio;
     }
 
 
-    private static void LisarClientes()
+    private static void ListarClientes()
     {
         Console.Clear();
         Console.WriteLine("=== Lista de Clientes ===");
         foreach (var cliente in sistema.Clientes)
         {
-            Console.WriteLine(cliente);
+            string tipoCliente = cliente.GetType().Name;
+            Console.WriteLine($"Tipo: {tipoCliente}, {cliente}");
         }
     }
 
-    private static void ListarVuelosPorAeropuerto()
+    private static void ListarVuelosPorCodigoAeropuerto()
     {
         Console.Write("\nIngrese el código del aeropuerto: ");
         string codigo = Console.ReadLine();
@@ -76,7 +77,7 @@ using Dominio;
         }
     }
 
-    priavate static void AltaClienteOcasional()
+    private static void AltaClienteOcasional()
     {
         Console.Clear();
         Console.WriteLine("=== Alta de Cliente Ocasional ===");
@@ -86,11 +87,17 @@ using Dominio;
         string documento = Console.ReadLine();
         Console.Write("Ingrese el email: ");
         string email = Console.ReadLine();
-        Console.Write("Ingrese el regalo elegible (true/false): ");
-        bool regaloElegible = bool.Parse(Console.ReadLine());
-        ClienteOcasional clienteOcasional = new ClienteOcasional(nombre, documento, email, regaloElegible);
+        Console.Write("Ingrese la contraseña: ");
+        string contrasena = Console.ReadLine();
+        Console.Write("Ingrese la nacionalidad: ");
+        string nacionalidad = Console.ReadLine();
+
+        // Crear el cliente ocasional
+        ClienteOcasional clienteOcasional = new ClienteOcasional(documento, nombre, email, contrasena, nacionalidad);
+
+        // Agregar el cliente al sistema
         sistema.AgregarCliente(clienteOcasional);
+
         Console.WriteLine($"Cliente Ocasional {nombre} agregado exitosamente.");
     }
 }
-

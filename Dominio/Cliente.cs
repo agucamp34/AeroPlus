@@ -43,7 +43,7 @@ namespace Dominio
         }
         public override string ToString()
         {
-            return $" Cliente - Nombre: {Nombre}, Email: {Email}, Nacionalidad: {Nacionalidad}";
+            return $"Nombre: {Nombre}, Email: {Email}, Nacionalidad: {Nacionalidad} ";
         }
 
         public abstract decimal CalcularRecargoPorEquipaje (Equipaje equipaje);

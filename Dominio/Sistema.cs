@@ -28,8 +28,8 @@ namespace Dominio
             Pasajes = new List<Pasaje>();
             Aeropuertos = new List<Aeropuerto>();
 
-            
 
+            PrecargaObjetos();
         }
 
         private void PrecargarAeropuertos()
@@ -174,10 +174,36 @@ namespace Dominio
         }
 
 
-        public void AgregarCliente(Cliente cliente)
+   
+        public void AgregarVuelo(Vuelo vuelo)
         {
-
+            Vuelos.Add(vuelo);
         }
+        public void AgregarRuta(Ruta ruta)
+        {
+            Rutas.Add(ruta);
+        }   
+  
+        public void AgregarAvion(Avion avion)
+        {
+            Aviones.Add(avion);
+        }
+        public void AgregarAdministrador(Administrador administrador)
+        {
+            Administradores.Add(administrador);
+        }
+        public void AgregarUsuario(Usuario usuario)
+        {
+            Usuarios.Add(usuario);
+        }
+        
+        public void AgregarAeropuerto(Aeropuerto aeropuerto)
+        {
+            Aeropuertos.Add(aeropuerto);
+        }
+        
+        
+
         public List<Pasaje> ObtenerPasajeEntreFechas(DateTime desde, DateTime hasta)
         {
             List<Pasaje> pasajesEntreFechas = new List<Pasaje>();
