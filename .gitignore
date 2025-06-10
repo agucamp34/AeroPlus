@@ -1,0 +1,45 @@
+# Archivos de configuración de usuario
+.vs/
+*.user
+*.suo
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos de configuración de NuGet
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Archivos de configuración de IDE
+.idea/
+*.csproj.user
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de entorno
+.env
+.env.*
+
+# Archivos generados por herramientas
+Generated_Code/
