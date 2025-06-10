@@ -51,9 +51,9 @@ namespace AeroPlusWeb.Controllers
                 return RedirectToAction("Login", "Account");
             }
 
-            //Pasaje pasaje = new Pasaje(vuelo, fecha, tipoEquipaje, cliente);
+            Pasaje pasaje = new Pasaje(vuelo, fecha, tipoEquipaje, cliente);
 
-            sistema.ComprarPasaje(vuelo, fecha, tipoEquipaje, cliente);
+            sistema.ComprarPasaje(vuelo, fecha, tipoEquipaje, cliente, pasaje.Precio);
 
             return RedirectToAction("PasajesCliente", "Cliente");
         }

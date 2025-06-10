@@ -597,7 +597,7 @@ namespace Dominio
         }
 
        // metodo para usar en ClienteController
-        public Pasaje ComprarPasaje(Vuelo vuelo, DateTime fecha, Equipaje tipoEquipaje, Cliente cliente)
+        public Pasaje ComprarPasaje(Vuelo vuelo, DateTime fecha, Equipaje tipoEquipaje, Cliente cliente, Double precio)
         {
             Pasaje p = new Pasaje
             {
@@ -605,7 +605,7 @@ namespace Dominio
                 Fecha = fecha,
                 TipoEquipaje = tipoEquipaje,
                 Pasajero = cliente,
-                Precio = 0 //enviar el precio desde el controller
+                Precio = precio
             };
 
             p.Validar();
