@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using Dominio
+@model Vuelo
+
+<form action="/Pasaje/ConfirmarPasaje" method="post">
+    @*esta linea es para enviar el id del vuelo al postear el formulario*@
+    <input type="hidden" name="IdVuelo" value="@Model.Id" />
+    <div class="mb-3">
+        <label class="form-label">Numero de Vuelo</label>
+        <input class="form-control" name="NumeroVuelo" type="text" value=@Model.NumeroVuelo disabled />
+    </div>  <div class="mb-3">
+        <label class="form-label">Origen</label>
+        <input class="form-control" name="AeropuertoSalida" type="text" value="@Model.Ruta.AeropuertoSalida.Ciudad" disabled />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Destino</label>
+        <input class="form-control" name="AeropuertoEntrada" type="text" value="@Model.Ruta.AeropuertoEntrada.Ciudad" disabled />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Frecuencia</label>
+        <input class="form-control" type="text" name="Frecuencia" value="@Model.DevolverDias()" disabled />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Fecha del vuelo</label>
+        <input class="form-control" type="date" name="Fecha" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Tipo de Equipaje</label>
+        <select class="form-control" name="TipoEquipaje">
+            @foreach (var tipo in Enum.GetValues(typeof(Equipaje)))
+            {
+                <option value="@tipo">@tipo</option>
+            }
+        </select>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Siguiente</button>
+</form>

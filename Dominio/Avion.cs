@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Avion
+    public class Avion: IValidable
     {
         public string Fabricante {  get; set; }
         public string Modelo { get; set; }
@@ -21,6 +21,7 @@ namespace Dominio
             CantidadAsientos = cantidadAsientos;
             Alcance = alcance;
             CostoOperacionPorKm = costoOperacionPorKm;
+
         }
 
         public override string ToString()
@@ -28,7 +29,7 @@ namespace Dominio
             return $"Avión: {Fabricante} {Modelo}, Asientos: {CantidadAsientos}, Alcance: {Alcance} km, Costo de operación por km: {CostoOperacionPorKm:C}";
         }
 
-        public void ValidarAvion()
+        public void Validar()
         {
             if(string.IsNullOrEmpty(Fabricante))
             {

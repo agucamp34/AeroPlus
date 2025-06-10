@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Dominio
+@model List<Cliente>
+
+<h1>Listado de clientes</h1>
+
+@{
+    if (Model == null || Model.Count == 0)
+    {
+        <p>no hay clientes</p>
+    }
+    else
+    {
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Documento</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Nacionalidad</th>
+                    <th scope="col">Elegibilidad/Puntos</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (Cliente c in Model)
+                    {
+                        <tr>
+                            <th scope="row">@c.Documento</th>
+                            <td>@c.Nombre</td>
+                            <td>@c.Nacionalidad</td>
+                            <td>
+                                @if (c is ClientePremium premium)
+                                {
+                                    @premium.Puntos
+                                }
+                                @if (c is ClienteOcasional ocasional)
+                                {
+                                    @if (ocasional.RegaloElegible)
+                                    {
+                                        @:Elegible
+                                    }
+                                    else
+                                    {
+                                        @:No elegible
+                                    }
+
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+
+    }
+}

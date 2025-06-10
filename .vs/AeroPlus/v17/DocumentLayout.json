@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\cliente\\pasajescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\cliente\\pasajescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F81071-FE55-4BBB-86FC-E260601B3646}|AeroPlus\\AeroPlus.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F81071-FE55-4BBB-86FC-E260601B3646}|AeroPlus\\AeroPlus.csproj|solutionrelative:aeroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\pasaje\\detallepasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\pasaje\\detallepasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\pasaje\\confirmarpasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\pasaje\\confirmarpasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\vuelo\\detallevuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\detallevuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\clienteocasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\clienteocasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c5bf5d9-45b6-5b19-8f26-8b5abfc7324f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasajeController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PasajeController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Controllers\\PasajeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvzcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:08:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VueloController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\VueloController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Controllers\\VueloController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:08:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasajesCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T17:09:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pasaje.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Pasaje.cs",
+              "RelativeDocumentMoniker": "Dominio\\Pasaje.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Pasaje.cs",
+              "RelativeToolTip": "Dominio\\Pasaje.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:35:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:13:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
+              "RelativeToolTip": "Dominio\\Sistema.cs",
+              "ViewState": "AgIAAE0CAAAAAAAAAAAhwFsCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:54:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Controllers\\PerfilController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:08:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:28:30.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaVuelos.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:47:14.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleVuelo.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:47:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmarPasaje.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T03:41:44.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetallePasaje.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:26:37.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Cliente.cs",
+              "RelativeToolTip": "Dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:19:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Program.cs",
+              "RelativeToolTip": "AeroPlusWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:05:47.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlus\\Program.cs",
+              "RelativeDocumentMoniker": "AeroPlus\\Program.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlus\\Program.cs",
+              "RelativeToolTip": "AeroPlus\\Program.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:51:54.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vuelo.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Vuelo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Vuelo.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Vuelo.cs",
+              "RelativeToolTip": "Dominio\\Vuelo.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAewE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:19:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T23:28:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteOcasional.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClienteOcasional.cs",
+              "RelativeDocumentMoniker": "Dominio\\ClienteOcasional.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClienteOcasional.cs",
+              "RelativeToolTip": "Dominio\\ClienteOcasional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:29:33.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Administrador.cs",
+              "RelativeDocumentMoniker": "Dominio\\Administrador.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Administrador.cs",
+              "RelativeToolTip": "Dominio\\Administrador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:34:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Avion.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Avion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Avion.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Avion.cs",
+              "RelativeToolTip": "Dominio\\Avion.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:19:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:49:10.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\IValidable.cs",
+              "RelativeDocumentMoniker": "Dominio\\IValidable.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\IValidable.cs",
+              "RelativeToolTip": "Dominio\\IValidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:36:53.549Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

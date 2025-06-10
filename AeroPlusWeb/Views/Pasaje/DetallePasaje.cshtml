@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Dominio
+@model Pasaje
+
+<h2>Detalles del Pasaje</h2>
+
+<table class="table">
+<tr>
+    <th>ID del Pasaje</th>
+    <th>@Model.IdPasaje</th>
+</tr>
+    <tr>
+        <th>Pasajero</th>
+        <td>@Model.Pasajero.Nombre</td>
+    </tr>
+    <tr>
+        <th>Número de Vuelo</th>
+        <td>@Model.Vuelo.NumeroVuelo</td>
+    </tr>
+    <tr>
+        <th>Origen</th>
+        <td>@Model.Vuelo.Ruta.AeropuertoSalida.CodigoIATA</td>
+    </tr>
+    <tr>
+        <th>Destino</th>
+        <td>@Model.Vuelo.Ruta.AeropuertoEntrada.CodigoIATA</td>
+    </tr>
+    <tr>
+        <th>Fecha</th>
+        <td>@Model.Fecha.ToString("dd/MM/yyyy")</td>
+    </tr>
+    <tr>
+        <th>Tipo de Equipaje</th>
+        <td>@Model.TipoEquipaje</td>
+    </tr>
+    <tr>
+        <th>Precio Final</th>
+        <td>@Model.Precio.ToString("C")</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("ListaVuelos", "Vuelos")" class="btn btn-secondary">Volver a la Lista</a>

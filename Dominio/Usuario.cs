@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Usuario
+    public class Usuario : IValidable
     {
+        
         public string Email { get; private set; }
         public string Contrasena { get; private set; }
 
@@ -15,8 +16,20 @@ namespace Dominio
         {
             Email = email;
             Contrasena = contrasena;
-        }
 
+        }
+        public Usuario() { }
+        public void Validar()
+        {
+            if (string.IsNullOrEmpty(Email))
+            {
+                throw new Exception("El email no puede estar vacío.");
+            }
+            if (string.IsNullOrEmpty(Contrasena))
+            {
+                throw new Exception("La contraseña no puede estar vacía.");
+            }
+        }
         public override string ToString()
         {
             return $"Email: {Email}";

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Pasaje
+    public class Pasaje: IValidable
     {
         public static int UltimoIdPasaje = 0;
-        public int IdPasaje {  get; private set; }
+        public int IdPasaje {  get; set; }
         public Vuelo Vuelo { get; set; }
         public DateTime Fecha { get; set; }
         public Equipaje TipoEquipaje { get; set; }
@@ -17,29 +17,40 @@ namespace Dominio
 
         public Cliente Pasajero  { get; set; }
 
-        public Pasaje(int idPasaje, Vuelo vuelo,DateTime fecha, Equipaje tipoEquipaje, double precio, Cliente pasajero) 
+        public Pasaje(Vuelo vuelo, DateTime fecha, Equipaje tipoEquipaje, Cliente pasajero)
         {
             IdPasaje = ++UltimoIdPasaje;
+            Vuelo = vuelo; 
+            Pasajero = pasajero; 
             Fecha = fecha;
             TipoEquipaje = tipoEquipaje;
-            Precio = CalcularPrecioPasaje();
-            Vuelo = vuelo;
-            Pasajero = pasajero;
+            Precio = CalcularPrecioPasaje(); 
+        }
+
+        public Pasaje()
+        {
+            IdPasaje = ++UltimoIdPasaje;
+
         }
 
 
-      
+        public void Validar()
+        {
+            if (Vuelo == null)
+            {
+                throw new Exception("El vuelo no puede ser nulo");
+            }
+            if (Pasajero == null)
+            {
+                throw new Exception("El pasajero no puede ser nulo");
+            }
+            
+        }
 
         public override string ToString()
         {
             return $"Pasaje ID: {IdPasaje}, Pasajero: {Pasajero.Nombre}, Vuelo: {Vuelo.NumeroVuelo}, Precio: {Precio}, Equipaje: {TipoEquipaje}";
         }
-        
-        
-        
-        
-        
-        
         
         
         public double CalcularPrecioPasaje()
@@ -61,8 +72,5 @@ namespace Dominio
 
         }
 
-      
-
-        
     }
 }

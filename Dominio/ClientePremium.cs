@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class ClientePremium: Cliente
+    public class ClientePremium: Cliente, IValidable
     {
         public int Puntos { get; set; }
 
@@ -14,8 +14,17 @@ namespace Dominio
 
         {
             Puntos = puntos; // esto inicializa el nuevo campo exclusivo de ClientePremium
+
         }
 
+
+        public new void Validar()
+        {
+            if (Puntos < 0)
+            {
+                throw new ArgumentException("Los puntos no pueden ser negativos.");
+            }
+        }
         public override string ToString()
         {
             return base.ToString() + $", Puntos: {Puntos}";

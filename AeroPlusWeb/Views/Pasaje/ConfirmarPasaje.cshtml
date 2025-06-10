@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Dominio.Pasaje
+
+@{
+    ViewData["Title"] = "ConfirmarPasaje";
+}
+
+<h2>Confirmar Pasaje</h2>
+
+<div class="card p-4">
+    <h4>Detalles del Pasaje</h4>
+    <dl class="row">
+        <dt class="col-sm-3">Pasajero</dt>
+        <dd class="col-sm-9">@Model.Pasajero.Nombre</dd>
+
+        <dt class="col-sm-3">Número de Vuelo</dt>
+        <dd class="col-sm-9">@Model.Vuelo.NumeroVuelo</dd>
+
+        <dt class="col-sm-3">Origen</dt>
+        <dd class="col-sm-9">@Model.Vuelo.Ruta.AeropuertoSalida.Ciudad</dd>
+
+        <dt class="col-sm-3">Destino</dt>
+        <dd class="col-sm-9">@Model.Vuelo.Ruta.AeropuertoEntrada.Ciudad</dd>
+
+        <dt class="col-sm-3">Fecha del vuelo</dt>
+        <dd class="col-sm-9">@Model.Fecha.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">Tipo de Equipaje</dt>
+        <dd class="col-sm-9">@Model.TipoEquipaje</dd>
+
+        <dt class="col-sm-3">Precio</dt>
+        <dd class="col-sm-9">$@Model.Precio.ToString("0.00")</dd>
+    </dl>
+
+    <form asp-action="ComprarPasaje" method="post">
+        <input type="hidden" name="IdVuelo" value="@Model.Vuelo.Id" />
+        <input type="hidden" name="Fecha" value="@Model.Fecha.ToString("yyyy-MM-dd")" />
+        <input type="hidden" name="TipoEquipaje" value="@Model.TipoEquipaje" />
+
+        <button type="submit" class="btn btn-success">Confirmar Compra</button>
+        <a asp-action="ListaVuelos" asp-controller="Vuelo" class="btn btn-secondary ms-2">Cancelar</a>
+    </form>
+</div>
+

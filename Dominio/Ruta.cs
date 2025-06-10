@@ -1,18 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Formats.Asn1;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Ruta
+    public class Ruta : IValidable
 
     {
         public static int UltimoIdRuta = 0;
         public int IdRuta {  get;  private set; }
-        public  required Aeropuerto AeropuertoSalida  {  get; set; }
-        public  required Aeropuerto AeropuertoEntrada  { get; set; }
+        public   Aeropuerto AeropuertoSalida  {  get; set; }
+        public   Aeropuerto AeropuertoEntrada  { get; set; }
         public double Distancia { get; set; }
 
         
@@ -24,13 +25,17 @@ namespace Dominio
 
         public Ruta(int idRuta, Aeropuerto aeropuertoSalida, Aeropuerto aeropuertoEntrada, double distancia)
         {
+
             IdRuta = idRuta;
             AeropuertoSalida = aeropuertoSalida;
             AeropuertoEntrada = aeropuertoEntrada;
             Distancia = distancia;
+
+            
         }
 
-        public void ValidarRuta()
+       
+        public void Validar()
         {
             if (AeropuertoSalida == null)
             {
@@ -40,9 +45,13 @@ namespace Dominio
             {
                 throw new Exception("El aeropuerto de entrada no puede ser nulo");
             }
+            if (AeropuertoSalida.CodigoIATA == AeropuertoEntrada.CodigoIATA)
+            {
+                throw new Exception("El aeropuerto de salida y el de entrada no pueden ser el mismo");
+            }
             if (Distancia <= 0)
             {
-                throw new Exception("La distancia debe ser mayor a cero");
+                throw new Exception( "La distancia debe ser mayor a cero");
             }
         }
     }

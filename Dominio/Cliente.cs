@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public abstract class Cliente : Usuario
+    public abstract class Cliente : Usuario, IValidable
     {
+       
         public string Documento { get; set; }
         public string Nombre {  get; set; }
         public string Nacionalidad { get; set; }
+        public List<Pasaje> PasajesComprados { get; set; }
 
-        
+        public Cliente() { }
 
         public Cliente(string documento, string nombre, string email, string contrasena, string nacionalidad) : base(email, contrasena) //Solo email y contraseña, como espera Usuario
 
@@ -20,9 +22,10 @@ namespace Dominio
             Documento = documento;
             Nombre = nombre;
             Nacionalidad = nacionalidad;
+            PasajesComprados = new List<Pasaje>();
         }
 
-        public void ValidarCliente()
+        public void Validar()
         {
             if (string.IsNullOrEmpty(Documento))
             {

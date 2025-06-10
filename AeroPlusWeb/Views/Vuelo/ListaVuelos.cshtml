@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Dominio
+@model List<Vuelo>
+
+@{
+    if (Model == null || Model.Count == 0)
+    {
+        <p>No se han encontrado Vuelos</p>
+    }
+    else
+    {
+        <div class="d-flex justify-content-end mb-3">
+            <form asp-action="Index" method="get" class="form-inline">
+                <input type="text" name="codigoAeropuerto" class="form-control mr-2" placeholder="Código Aeropuerto" />
+                <button type="submit" class="btn btn-outline-primary">Buscar</button>
+            </form>
+        </div>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Número de Vuelo</th>
+                    <th scope="col">Aeropuerto Origen</th>
+                    <th scope="col">Aeropuerto Destino</th>
+                    <th scope="col">Frecuencia</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var v in Model)
+                {
+                    <tr>
+                        <th scope="row">@v.NumeroVuelo</th>
+                        <td>@v.Ruta.AeropuertoSalida.Ciudad</td> <!-- Aeropuerto de origen CIUDAD -->
+                        <td>@v.Ruta.AeropuertoEntrada.Ciudad</td> <!-- Aeropuerto de destino CIUDAD -->
+                        <td>@string.Join(", ", v.Frecuencia)</td> <!-- Muestra la frecuencia del vuelo -->
+                        <td>
+                            @Html.ActionLink("Ver Detalle", "DetalleVuelo", "Vuelo", new { id = v.Id })
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    }
