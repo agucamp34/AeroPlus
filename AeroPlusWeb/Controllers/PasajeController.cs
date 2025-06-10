@@ -6,6 +6,11 @@ namespace AeroPlusWeb.Controllers
     public class PasajeController : Controller
     {
         private Sistema sistema = Sistema.ObtenerInstancia();
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
@@ -58,6 +63,11 @@ namespace AeroPlusWeb.Controllers
             return RedirectToAction("PasajesCliente", "Cliente");
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public IActionResult ObtenerPorId(int id)
         {
             try
