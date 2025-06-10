@@ -32,6 +32,7 @@ publish/
 *.log
 *.tmp
 *.cache
+*.vsidx
 
 # Archivos de configuración de sistema operativo
 .DS_Store
