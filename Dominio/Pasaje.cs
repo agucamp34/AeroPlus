@@ -30,7 +30,6 @@ namespace Dominio
         public Pasaje()
         {
             IdPasaje = ++UltimoIdPasaje;
-
         }
 
 
@@ -53,6 +52,10 @@ namespace Dominio
         }
         
         
+        /// <summary>
+        /// Calcular el precio de cada pasaje
+        /// </summary>
+        /// <returns>Precio final del pasaje</returns>
         public double CalcularPrecioPasaje()
         {
             // El costo base es igual al costoPorAsiento()
