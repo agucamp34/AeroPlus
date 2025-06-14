@@ -544,27 +544,19 @@ namespace Dominio
         public void AltaClienteOcasional(Cliente c)
         {
             // Validar que el email no esté repetido
-            foreach (Cliente cliente in Clientes)
+            foreach (Cliente cli in Clientes)
             {
-                if (cliente.Email == c.Email)
-                {
-                    throw new Exception("Ya existe un cliente con ese email.");
-                }
-
-               
+                if (cli.Email == c.Email) throw new Exception("Ya existe un usuario con ese correo electronico.");
             }
             // Crear un ClienteOcasional 
             ClienteOcasional nuevoCliente = new ClienteOcasional(c.Documento, c.Nombre, c.Email, c.Contrasena, c.Nacionalidad);
 
-            // Agregar a la lista de clientes
+            // Agregar a las listas
+            Usuarios.Add(nuevoCliente);
             Clientes.Add(nuevoCliente);
-
-            // **Loguear automáticamente al cliente**
-            //response.Cookies.Append("UsuarioEmail", nuevoCliente.Email, new CookieOptions { Expires = DateTime.Now.AddHours(8) });
-           // response.Cookies.Append("Rol", "ClienteOcasional", new CookieOptions { Expires = DateTime.Now.AddHours(8) });
         }
 
-      
+
 
 
         public List<Vuelo> ObtenerVuelos()
