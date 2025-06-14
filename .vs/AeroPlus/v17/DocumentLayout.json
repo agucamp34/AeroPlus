@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -112,32 +112,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 25,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientePremium.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs",
-              "RelativeDocumentMoniker": "Dominio\\ClientePremium.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs",
-              "RelativeToolTip": "Dominio\\ClientePremium.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:30:47.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs",
-              "RelativeToolTip": "Dominio\\Usuario.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:30:31.654Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -221,19 +195,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs",
-              "RelativeDocumentMoniker": "Dominio\\Rol.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs",
-              "RelativeToolTip": "Dominio\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:30:15.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Cliente.cs",
               "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
@@ -241,12 +202,11 @@
               "RelativeToolTip": "Dominio\\Cliente.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:19:32.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T14:19:32.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Administrador.cs",
               "RelativeDocumentMoniker": "Dominio\\Administrador.cs",
@@ -254,25 +214,36 @@
               "RelativeToolTip": "Dominio\\Administrador.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:34:45.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:34:45.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwGsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:28:30.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
+              "RelativeToolTip": "Dominio\\Sistema.cs",
+              "ViewState": "AgIAABUCAAAAAAAAAAAswDwCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:54:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PasajeController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PasajeController.cs",
@@ -280,24 +251,36 @@
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\PasajeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAawCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:08:25.062Z",
+              "WhenOpened": "2025-05-25T17:08:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "RelativeToolTip": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T23:28:42.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
-              "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
-              "RelativeToolTip": "Dominio\\Sistema.cs",
-              "ViewState": "AgIAAEkCAAAAAAAAAAAiwF8CAAAZAAAAAAAAAA==",
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs",
+              "RelativeDocumentMoniker": "Dominio\\Rol.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs",
+              "RelativeToolTip": "Dominio\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:54:54.961Z"
+              "WhenOpened": "2025-06-14T06:30:15.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "VueloController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\VueloController.cs",
@@ -309,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ClienteOcasional.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClienteOcasional.cs",
               "RelativeDocumentMoniker": "Dominio\\ClienteOcasional.cs",
@@ -317,12 +300,11 @@
               "RelativeToolTip": "Dominio\\ClienteOcasional.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:29:33.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:29:33.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\ClienteController.cs",
@@ -334,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Pasaje.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Pasaje.cs",
               "RelativeDocumentMoniker": "Dominio\\Pasaje.cs",
@@ -346,7 +328,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:30:31.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientePremium.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs",
+              "RelativeDocumentMoniker": "Dominio\\ClientePremium.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs",
+              "RelativeToolTip": "Dominio\\ClientePremium.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:30:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PasajesCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
@@ -358,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PerfilController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PerfilController.cs",
@@ -370,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ListaVuelos.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
@@ -382,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DetalleVuelo.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
@@ -394,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ConfirmarPasaje.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
@@ -406,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DetallePasaje.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
@@ -418,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Program.cs",
@@ -430,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlus\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlus\\Program.cs",
@@ -442,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Vuelo.cs",
               "RelativeDocumentMoniker": "Dominio\\Vuelo.cs",
@@ -451,18 +457,6 @@
               "ViewState": "AgIAAEQAAAAAAAAAAAAewE0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T14:19:38.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
-              "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
-              "RelativeToolTip": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T23:28:42.945Z"
             },
             {
               "$type": "Document",

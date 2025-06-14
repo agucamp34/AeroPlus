@@ -110,3 +110,7 @@ C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\refint\Aer
 C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\AeroPlusWeb.pdb
 C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\AeroPlusWeb.genruntimeconfig.cache
 C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\ref\AeroPlusWeb.dll
+C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\patri\OneDrive\Desktop\AeroPlus\AeroPlusWeb\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

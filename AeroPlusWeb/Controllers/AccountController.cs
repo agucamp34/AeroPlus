@@ -76,7 +76,7 @@ namespace AeroPlusWeb.Controllers
         //comentario
 
         [HttpPost]
-        public IActionResult Registro(ClienteOcasional c)
+        public IActionResult Registro(ClienteOcasional? c)
         {
             try
             {
