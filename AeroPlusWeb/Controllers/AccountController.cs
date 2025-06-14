@@ -76,13 +76,16 @@ namespace AeroPlusWeb.Controllers
         //comentario
 
         [HttpPost]
-        public IActionResult Registrar(ClienteOcasional c)
+        public IActionResult Registro(ClienteOcasional c)
         {
             try
             {
                 sistema.AltaClienteOcasional(c);
 
-                ViewBag.Alta = "Se registró exitosamente";
+                //esto no se puede hacer, viewbag con View, rtAction con TempData
+                //ViewBag.Alta = "Se registró exitosamente";
+                HttpContext.Session.SetString("UsuarioEmail", c.Email);
+                HttpContext.Session.SetString("UsuarioRol", c.Rol.ToString());
                 return RedirectToAction("Index", "Home");
             }
             catch (Exception ex)

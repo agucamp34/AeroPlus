@@ -8,18 +8,20 @@ namespace Dominio
 {
     public class Usuario : IValidable
     {
-        
-        public string Email { get; private set; }
-        public string Contrasena { get; private set; }
+
+        public string Email { get; set; }
+        public string Contrasena { get; set; }
+        public Rol Rol { get; set; }
 
         public Usuario(string email, string contrasena)
         {
             Email = email;
             Contrasena = contrasena;
-
         }
         public Usuario() { }
-        public void Validar()
+
+
+        public virtual void Validar()
         {
             if (string.IsNullOrEmpty(Email))
             {
@@ -29,7 +31,19 @@ namespace Dominio
             {
                 throw new Exception("La contraseña no puede estar vacía.");
             }
+            else
+            {
+                if (Contrasena.Length < 8 ||
+                    !Contrasena.Any(char.IsDigit) ||
+                    !Contrasena.Any(char.IsLetter))
+                {
+                    throw new Exception("La contraseña debe tener al menos 8 caracteres, una letra y un numero.");
+                }
+            }
         }
+
+
+
         public override string ToString()
         {
             return $"Email: {Email}";

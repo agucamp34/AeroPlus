@@ -8,9 +8,9 @@ namespace Dominio
 {
     public abstract class Cliente : Usuario, IValidable
     {
-       
+
         public string Documento { get; set; }
-        public string Nombre {  get; set; }
+        public string Nombre { get; set; }
         public string Nacionalidad { get; set; }
         public List<Pasaje> PasajesComprados { get; set; }
 
@@ -23,32 +23,37 @@ namespace Dominio
             Nombre = nombre;
             Nacionalidad = nacionalidad;
             PasajesComprados = new List<Pasaje>();
+            Rol = Rol.Cliente;
         }
 
-        public void Validar()
+        public override void Validar()
         {
+            base.Validar();
+
             if (string.IsNullOrEmpty(Documento))
             {
-                throw new ArgumentException("El documento no puede estar vacío.");
+                throw new Exception("El documento no puede estar vacío.");
+            }
+            if (Documento.Length != 8)
+            {
+                throw new Exception("El documento debe tener 8 dígitos");
             }
             if (string.IsNullOrEmpty(Nombre))
             {
-                throw new ArgumentException("El nombre no puede estar vacío.");
+                throw new Exception("El nombre no puede estar vacío.");
             }
-            if (string.IsNullOrEmpty(Email))
-            {
-                throw new ArgumentException("El email no puede estar vacío.");
-            }
-            if (string.IsNullOrEmpty(Contrasena))
-            {
-                throw new ArgumentException("La contraseña no puede estar vacía.");
-            }
+        }
+
+        public override bool Equals(object? obj)
+        {
+            Cliente otro = (Cliente)obj;
+            return Email == otro.Email;
         }
         public override string ToString()
         {
             return $"Nombre: {Nombre}, Email: {Email}, Nacionalidad: {Nacionalidad} ";
         }
 
-        public abstract decimal CalcularRecargoPorEquipaje (Equipaje equipaje);
+        public abstract decimal CalcularRecargoPorEquipaje(Equipaje equipaje);
     }
 }

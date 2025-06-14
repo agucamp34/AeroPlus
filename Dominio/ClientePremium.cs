@@ -6,23 +6,22 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class ClientePremium: Cliente, IValidable
+    public class ClientePremium : Cliente, IValidable
     {
         public int Puntos { get; set; }
 
-        public ClientePremium(string documento, string nombre, string email, string contrasena,string nacionalidad, int puntos) : base(documento, nombre, email, contrasena, nacionalidad)// esto llama al constructor de Cliente
+        public ClientePremium(string documento, string nombre, string email, string contrasena, string nacionalidad, int puntos) : base(documento, nombre, email, contrasena, nacionalidad)// esto llama al constructor de Cliente
 
         {
             Puntos = puntos; // esto inicializa el nuevo campo exclusivo de ClientePremium
-
         }
-
-
-        public new void Validar()
+        public override void Validar()
         {
+            base.Validar();
+
             if (Puntos < 0)
             {
-                throw new ArgumentException("Los puntos no pueden ser negativos.");
+                throw new Exception("Los puntos no pueden ser negativos.");
             }
         }
         public override string ToString()

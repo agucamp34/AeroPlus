@@ -6,19 +6,20 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Administrador : Usuario , IValidable
+    public class Administrador : Usuario, IValidable
     {
         public string Apodo { get; set; }
 
-        public Administrador(string apodo, string email, string contrasena): base(email, contrasena) // Solo email y contraseña, como espera Usuario 
-        { 
+        public Administrador(string apodo, string email, string contrasena) : base(email, contrasena) // Solo email y contraseña, como espera Usuario 
+        {
             Apodo = apodo;
-
-            
+            Rol = Rol.Admin;
         }
 
-        public new void Validar()
+        public override void Validar()
         {
+            base.Validar();
+
             if (string.IsNullOrEmpty(Apodo))
             {
                 throw new Exception("El apodo no puede estar vacío.");
@@ -29,9 +30,9 @@ namespace Dominio
             return base.ToString() + $"Apodo: {Apodo} ";
         }
 
-       public void ModificarPuntosClientePremium(ClientePremium cliente, int nuevosPuntos)
+        public void ModificarPuntosClientePremium(ClientePremium cliente, int nuevosPuntos)
         {
-            if(nuevosPuntos < 0)
+            if (nuevosPuntos < 0)
             {
                 throw new Exception("Los puntos no pueden ser negativos.");
             }
@@ -42,8 +43,8 @@ namespace Dominio
         public void CambiarElegibilidadClienteOcasional(ClienteOcasional cliente, bool elegible)
         {
             cliente.RegaloElegible = elegible;
-        }   
+        }
 
-        
+
     }
 }
