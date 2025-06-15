@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AeroPlusWeb",
+    "\\AeroPlusWeb\\Views",
+    "\\AeroPlusWeb\\Views\\Account",
     "\\Dominio"
   ],
-  "SelectedNode": "\\AeroPlus.sln",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

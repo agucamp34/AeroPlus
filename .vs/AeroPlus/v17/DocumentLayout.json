@@ -3,104 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Account\\Registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\clienteocasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\clienteocasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Controllers\\PasajeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Controllers\\VueloController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClienteOcasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\ClienteOcasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Controllers\\ClienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\cliente\\pasajescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\cliente\\pasajescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\ClientePremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Controllers\\PerfilController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F81071-FE55-4BBB-86FC-E260601B3646}|AeroPlus\\AeroPlus.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F81071-FE55-4BBB-86FC-E260601B3646}|AeroPlus\\AeroPlus.csproj|solutionrelative:aeroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\pasaje\\detallepasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\pasaje\\detallepasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\pasaje\\confirmarpasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\pasaje\\confirmarpasaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\vuelo\\detallevuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\detallevuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\patri\\onedrive\\desktop\\aeroplus\\dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\IValidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\IValidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -194,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Cliente.cs",
               "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Administrador.cs",
               "RelativeDocumentMoniker": "Dominio\\Administrador.cs",
@@ -218,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\AccountController.cs",
@@ -226,12 +226,11 @@
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:28:30.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:28:30.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Sistema.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Sistema.cs",
               "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
@@ -243,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "PasajeController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PasajeController.cs",
@@ -268,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Rol.cs",
               "RelativeDocumentMoniker": "Dominio\\Rol.cs",
@@ -280,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "VueloController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\VueloController.cs",
@@ -292,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ClienteOcasional.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClienteOcasional.cs",
               "RelativeDocumentMoniker": "Dominio\\ClienteOcasional.cs",
@@ -304,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\ClienteController.cs",
@@ -316,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Pasaje.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Pasaje.cs",
               "RelativeDocumentMoniker": "Dominio\\Pasaje.cs",
@@ -328,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\Usuario.cs",
               "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
@@ -340,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ClientePremium.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\Dominio\\ClientePremium.cs",
               "RelativeDocumentMoniker": "Dominio\\ClientePremium.cs",
@@ -352,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PasajesCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
@@ -364,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PerfilController.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PerfilController.cs",
@@ -388,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
               "Title": "DetalleVuelo.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
@@ -400,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "ConfirmarPasaje.cshtml",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
@@ -424,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlusWeb\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Program.cs",
@@ -436,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\AeroPlus\\AeroPlus\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlus\\Program.cs",
