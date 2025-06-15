@@ -538,8 +538,9 @@ namespace Dominio
                     return u;
                 }
             }
-            return null;
+            throw new Exception("Usuario o contraseña incorrectos.");
         }
+
 
         public void AltaClienteOcasional(Cliente c)
         {
@@ -559,10 +560,25 @@ namespace Dominio
         //cambio
 
 
-        public List<Vuelo> ObtenerVuelos()
+        public List<Vuelo> ObtenerVuelos(string codigoVuelo)
         {
-            
-            return Vuelos.ToList();
+            List<Vuelo> vuelosEncontrados = new List<Vuelo>(Vuelos);
+            if (codigoVuelo != null)
+            {
+                List<Vuelo> aux = new List<Vuelo>();
+                foreach (Vuelo vuelo in vuelosEncontrados)
+                {
+                    if (vuelo.Ruta.AeropuertoEntrada.CodigoIATA.ToUpper().Contains(codigoVuelo.ToUpper()) ||
+                        vuelo.Ruta.AeropuertoSalida.CodigoIATA.ToUpper().Contains(codigoVuelo.ToUpper())
+                        )
+                    {
+                        aux.Add(vuelo);
+                    }
+                }
+                return aux;
+            }
+            return vuelosEncontrados;
+
         }
         public Pasaje ObtenerPasajePorId(int id)
         {

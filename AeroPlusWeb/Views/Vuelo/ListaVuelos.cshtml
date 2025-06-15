@@ -14,12 +14,11 @@
     }
     else
     {
-        <div class="d-flex justify-content-end mb-3">
-            <form asp-action="Index" method="get" class="form-inline">
-                <input type="text" name="codigoAeropuerto" class="form-control mr-2" placeholder="Código Aeropuerto" />
-                <button type="submit" class="btn btn-outline-primary">Buscar</button>
-            </form>
-        </div>
+        <form action="/Vuelo/ListaVuelos" method="GET">
+            <label class="form-label">Codigo Aeropuerto:</label>
+            <input class="form-control" name="codigoVuelo" type="text" />
+            <button class="btn btn-primary" type="submit">Buscar</button>
+        </form>
 
         <table class="table">
             <thead>
@@ -49,4 +48,4 @@
         </table>
     }
 
-    }
+}

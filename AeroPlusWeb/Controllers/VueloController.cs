@@ -11,9 +11,10 @@ namespace AeroPlusWeb.Controllers
             return View();
         }
 
-        public IActionResult ListaVuelos()
+        public IActionResult ListaVuelos(string? codigoVuelo)
+
         {
-            var vuelos = sistema.ObtenerVuelos();
+            List<Vuelo> vuelos = sistema.ObtenerVuelos(codigoVuelo);
 
             return View(vuelos);
         }

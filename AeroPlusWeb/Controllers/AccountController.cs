@@ -86,7 +86,7 @@ namespace AeroPlusWeb.Controllers
                 //ViewBag.Alta = "Se registró exitosamente";
                 HttpContext.Session.SetString("UsuarioEmail", c.Email);
                 HttpContext.Session.SetString("UsuarioRol", c.Rol.ToString());
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("ListaVuelos", "Vuelo");
             }
             catch (Exception ex)
             {

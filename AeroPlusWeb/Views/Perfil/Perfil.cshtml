@@ -3,3 +3,20 @@
 *@
 @{
 }
+@using Dominio
+@model Cliente
+
+<h2>Mi Perfil</h2>
+
+<div class="card">
+    <div class="card-body">
+        <p><strong>Nombre: </strong>@Model.Nombre</p>
+        <p><strong>Documento: </strong>@Model.Documento</p>
+        <p><strong>Nacionalidad: </strong>@Model.Nacionalidad</p>
+        <p><strong>Email: </strong>@Model.Email</p>
+        @if(Model is ClientePremium premium)
+        {
+        <p><strong>Puntos acumulados:</strong> @premium.Puntos</p>
+        }
+    </div>
+</div>
