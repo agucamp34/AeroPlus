@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +35,16 @@
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\pasajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\clienteocasional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\clientepremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,8 +67,8 @@
       "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\cliente\\pasajescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\vuelo\\listavuelos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\vuelo\\detallevuelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F80E5E2-A8ED-4F38-AE7C-FDFEDB63A850}|AeroPlusWeb\\AeroPlusWeb.csproj|solutionrelative:aeroplusweb\\views\\perfil\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|c:\\users\\alagu\\documents\\github\\aeroplus\\dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075412D5-FA81-4228-AD92-9E0DF1BADE84}|Dominio\\Dominio.csproj|solutionrelative:dominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 34,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Cliente.cs",
               "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Administrador.cs",
               "RelativeDocumentMoniker": "Dominio\\Administrador.cs",
@@ -218,32 +218,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:28:30.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Sistema.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Sistema.cs",
               "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Sistema.cs",
               "RelativeToolTip": "Dominio\\Sistema.cs",
-              "ViewState": "AgIAABsCAAAAAAAAAAAnwEUCAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGkCAAAAAAAAAAASwHQCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:54:54.961Z"
+              "WhenOpened": "2025-05-29T16:54:54.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PasajeController.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\PasajeController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PasajeController.cs",
@@ -255,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Account\\Registro.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
@@ -263,24 +264,24 @@
               "RelativeToolTip": "AeroPlusWeb\\Views\\Account\\Registro.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T23:28:42.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T23:28:42.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Rol.cs",
               "RelativeDocumentMoniker": "Dominio\\Rol.cs",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Rol.cs",
               "RelativeToolTip": "Dominio\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:30:15.721Z"
+              "WhenOpened": "2025-06-14T06:30:15.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "VueloController.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\VueloController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\VueloController.cs",
@@ -288,12 +289,11 @@
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\VueloController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:08:09.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:08:09.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ClienteOcasional.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\ClienteOcasional.cs",
               "RelativeDocumentMoniker": "Dominio\\ClienteOcasional.cs",
@@ -305,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\ClienteController.cs",
@@ -317,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Pasaje.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Pasaje.cs",
               "RelativeDocumentMoniker": "Dominio\\Pasaje.cs",
@@ -329,19 +329,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Usuario.cs",
               "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Usuario.cs",
               "RelativeToolTip": "Dominio\\Usuario.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:30:31.654Z"
+              "WhenOpened": "2025-06-14T06:30:31.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ClientePremium.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\ClientePremium.cs",
               "RelativeDocumentMoniker": "Dominio\\ClientePremium.cs",
@@ -353,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PasajesCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Cliente\\PasajesCliente.cshtml",
@@ -365,19 +366,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "PerfilController.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Controllers\\PerfilController.cs",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Controllers\\PerfilController.cs",
               "RelativeToolTip": "AeroPlusWeb\\Controllers\\PerfilController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:08:42.052Z"
+              "WhenOpened": "2025-05-25T17:08:42.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ListaVuelos.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
@@ -385,12 +387,11 @@
               "RelativeToolTip": "AeroPlusWeb\\Views\\Vuelo\\ListaVuelos.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T17:47:14.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:47:14.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DetalleVuelo.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Vuelo\\DetalleVuelo.cshtml",
@@ -402,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ConfirmarPasaje.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\ConfirmarPasaje.cshtml",
@@ -414,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DetallePasaje.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Pasaje\\DetallePasaje.cshtml",
@@ -426,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Program.cs",
@@ -438,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlus\\Program.cs",
               "RelativeDocumentMoniker": "AeroPlus\\Program.cs",
@@ -450,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Vuelo.cs",
               "RelativeDocumentMoniker": "Dominio\\Vuelo.cs",
@@ -462,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Avion.cs",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\Dominio\\Avion.cs",
               "RelativeDocumentMoniker": "Dominio\\Avion.cs",
@@ -474,15 +475,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "Perfil.cshtml",
               "DocumentMoniker": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
               "RelativeDocumentMoniker": "AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
               "ToolTip": "C:\\Users\\alagu\\Documents\\GitHub\\AeroPlus\\AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
               "RelativeToolTip": "AeroPlusWeb\\Views\\Perfil\\Perfil.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T17:49:10.799Z"
+              "WhenOpened": "2025-05-25T17:49:10.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

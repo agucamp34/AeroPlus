@@ -66,7 +66,7 @@ namespace AeroPlusWeb.Controllers
                 // Guardar el email en la sesión
                 HttpContext.Session.SetString("UsuarioEmail", user.Email);
 
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("ListaVuelos", "Vuelo");
             }
 
             ViewBag.Error = "Email o contraseña incorrectos";
