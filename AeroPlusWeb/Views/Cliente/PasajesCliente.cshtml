@@ -36,7 +36,7 @@ else
                     <td>@pasaje.Vuelo.Ruta.AeropuertoEntrada.Ciudad</td>
                     <td>@pasaje.Fecha.ToString("dd/MM/yyyy")</td>
                     <td>@pasaje.TipoEquipaje</td>
-                    <td>$@pasaje.Precio</td>@*ver porque mierdas no funciona esta lineaaaaaaa, siempre retorna 0*@
+                    <td>$@(Math.Round(pasaje.Precio, 2).ToString())</td>@*ver porque mierdas no funciona esta lineaaaaaaa, siempre retorna 0*@
                 </tr>
             }
         </tbody>

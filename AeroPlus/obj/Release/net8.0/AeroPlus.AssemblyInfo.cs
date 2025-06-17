@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AeroPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f5b2623a6ae05f90bab461a8596d4f7f8b8a26f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0155c7b4a29500c2d8c37e3ae0244cc9408ccc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AeroPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AeroPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
