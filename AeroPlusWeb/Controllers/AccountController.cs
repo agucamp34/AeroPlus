@@ -65,6 +65,7 @@ namespace AeroPlusWeb.Controllers
             {
                 // Guardar el email en la sesión
                 HttpContext.Session.SetString("UsuarioEmail", user.Email);
+                HttpContext.Session.SetString("UsuarioRol", user.Rol.ToString());
 
                 return RedirectToAction("ListaVuelos", "Vuelo");
             }
@@ -80,6 +81,7 @@ namespace AeroPlusWeb.Controllers
         {
             try
             {
+                c.Validar();
                 sistema.AltaClienteOcasional(c);
 
                 //esto no se puede hacer, viewbag con View, rtAction con TempData
@@ -94,6 +96,13 @@ namespace AeroPlusWeb.Controllers
                 return View(c); // Si hay error, vuelve a la vista con los datos ingresados
             }
         }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear(); // Borra toda la sesión
+            return RedirectToAction("Login", "Account");
+        }
+
 
     }
 }
